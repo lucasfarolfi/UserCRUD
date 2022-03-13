@@ -1,6 +1,7 @@
 # Instalação e configuração do projeto
 Para configurar a API do NestJs:
-- Dentro do diretório da *api*, procure o arquivo ".env", abra-o e configure a porta do servidor e as configurações do banco de dados de acordo com a sua máquina;
+- Dentro da pasta *api*, crie um arquivo ".env";
+- Procure o arquivo ".example.env", copie o código do exemplo, cole no arquivo ".env" criado e altere as configurações de acordo com sua máquina;
 - Abra o terminal na pasta *"api"*;
 - Execute o comando npm install;
 - Execute o comando npm run start;
