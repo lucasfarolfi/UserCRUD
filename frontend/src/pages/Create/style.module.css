@@ -1,0 +1,44 @@
+
+.form{
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px 0;
+    border: 1px solid lightgrey;
+    padding: 25px;
+}
+.form h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.form label{
+    display: block;
+    margin-bottom: 20px;
+}
+.btnSection{
+    text-align: center;
+}
+.btnSection button{
+    margin: 10px 5px;
+    font-size: 1.3rem;
+    padding: 8px 15px;
+    border-radius: 10px;
+    min-width: 120px;
+    color: white;
+    transition: all .2s;
+}
+.btnCancel{
+    background-color: rgb(189, 189, 189);
+}
+.btnCancel:hover{
+    background-color: rgb(175, 175, 175);
+}
+.btnSave{
+    background-color: rgb(71, 184, 212);
+}
+.btnSave:hover{
+    background-color: rgb(62, 162, 187);
+}
+.errorMsg{
+    color: rgb(221, 38, 38);
+}

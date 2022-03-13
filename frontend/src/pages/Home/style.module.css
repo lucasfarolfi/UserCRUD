@@ -1,0 +1,32 @@
+.userImage{
+    object-fit: cover;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+.newPersonBtn{
+    padding: 10px;
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(130, 190, 41);
+    transition: all .2s;
+}
+.actionBtn{
+    background-color: transparent;
+    color: rgb(49, 117, 206);
+    text-decoration: underline;
+    margin: 0 5px;
+}
+.newPersonBtn:hover{
+    background-color: rgb(104, 146, 42);
+}
+.errorMsg{
+    color: rgb(221, 38, 38);
+}

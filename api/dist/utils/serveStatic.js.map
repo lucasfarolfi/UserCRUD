@@ -1,0 +1,1 @@
+{"version":3,"file":"serveStatic.js","sourceRoot":"","sources":["../../src/utils/serveStatic.ts"],"names":[],"mappings":";;;AAAA,uDAAyD;AACzD,+BAA4B;AAEf,QAAA,WAAW,GAAG,gCAAiB,CAAC,OAAO,CAAC;IACjD,QAAQ,EAAE,IAAA,WAAI,EAAC,SAAS,EAAE,IAAI,EAAE,SAAS,CAAC;CAC7C,CAAC,CAAA"}
